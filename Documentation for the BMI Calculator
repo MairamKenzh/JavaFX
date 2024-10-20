@@ -1,9 +1,12 @@
 # BMI Calculator
 Description
-This is a JavaFX application designed to calculate Body Mass Index (BMI). Users can enter their weight and height, and the program computes the BMI, displaying the corresponding status (e.g., underweight, normal weight, or overweight). The application supports both metric and imperial measurement systems, making it user-friendly for different audiences.
+This is a JavaFX application designed to calculate Body Mass Index (BMI).
+Users can enter their weight and height, and the program computes the BMI, displaying the corresponding status (e.g., underweight, normal weight, or overweight). 
+The application supports both metric and imperial measurement systems, automatically calculating BMI for English units when appropriate, making it user-friendly for different audiences.
 
 ## Features
-- Input for weight and height in multiple formats (kilograms, pounds, centimeters, feet, and inches).
+- Input for weight and height in multiple formats (kilograms, centimeters).
+- Automatically calculates BMI when height and weight are entered in English units (e.g., pounds and inches).
 - Calculates BMI and provides a corresponding health status.
 - User-friendly interface with JavaFX.
 - Menu options for clearing input, exiting the application, and displaying information about the app.
