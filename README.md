@@ -66,6 +66,7 @@ To run this application, ensure you have JavaFX set up in your development envir
 Clone this repository, and use an IDE like IntelliJ IDEA or Eclipse to run the HelloApplication.java file.
 
 ![SCREEN](1.png)
+![SCREEN](2.png)
 
 
 
