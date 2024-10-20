@@ -65,7 +65,7 @@ The application leverages JavaFX for a user-friendly interface, incorporating go
 To run this application, ensure you have JavaFX set up in your development environment. 
 Clone this repository, and use an IDE like IntelliJ IDEA or Eclipse to run the HelloApplication.java file.
 
-![SCREEN]([URL_изображения](https://github.com/MairamKenzh/JavaFX/blob/main/1.png))
+![SCREEN](1.png)
 
 
 
